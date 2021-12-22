@@ -4,7 +4,9 @@
 <a href="mailto:dzhwar995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dzhwar-k&show_icons=true&theme=outrun"/>
 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhwar-k&layout=compact&theme=outrun"/>
 
 <br>
 <hr>
