@@ -1,9 +1,10 @@
-
+## Hi There, I'm Dzhwar ✌
+<a href="https://www.facebook.com/dzhwar.k"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/dzhwar_kamaran/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:dzhwar995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dzhwar-k&show_icons=true&theme=outrun"/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhwar-k&layout=compact&theme=outrun"/>
 
 <br>
 <hr>
