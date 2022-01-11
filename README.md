@@ -1,4 +1,7 @@
 ## Hi There, I'm Dzhwar ✌
+
+[![wakatime](https://wakatime.com/badge/user/8cfc3fd7-5ab2-4757-9db4-8af1084006a0.svg)](https://wakatime.com/@8cfc3fd7-5ab2-4757-9db4-8af1084006a0)
+
 <a href="https://www.facebook.com/dzhwar.k"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/dzhwar_kamaran/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:dzhwar995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
